@@ -1,8 +1,8 @@
 ×××××××××××××× SONYLIV ×××××××××××××××××
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHJF2gBG/x.jpg" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SonyLiv", Sony SAB SD
-https://restream-bay.vercel.app/?id=109953
+#EXTINF:-1 movie-type="web" group-title="Join" tvg-logo="usus" , join@Billa_tv
+https://cdn.videas.fr/v-medias/s5/hlsv1/98/5f/985ff528-2486-41a4-a077-21c4228b2da0/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SonyLiv", Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="1000009246" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SonyLiv", SET HD
